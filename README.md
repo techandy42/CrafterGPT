@@ -40,5 +40,20 @@ Prompt-Engineering Only:
 | 1.1 |
 | **0.9** (avg) |
 
+Fine-Tuned:
+| Rewards (Random Seeds) |
+| --- |
+| -0.9 |
+| -0.9 |
+| -0.9 |
+| -0.9 |
+| 0.1 |
+| -0.9 |
+| -0.9 |
+| -0.9 |
+| -0.9 |
+| -0.9 |
+| **-0.8** (avg) |
+
 > File Structure
 
