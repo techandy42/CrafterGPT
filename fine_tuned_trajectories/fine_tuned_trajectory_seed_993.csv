@@ -1,0 +1,944 @@
+step,observation,action,reward,done,total_reward
+0,"You see:
+- grass 1 steps to your west
+- tree 5 steps to your south-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+1,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Stone Pickaxe,0.0,False,0.0
+2,"You took action make_stone_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Stone Pickaxe,0.0,False,0.0
+3,"You took action make_stone_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+4,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+5,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+6,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 5 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+7,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 5 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+8,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+9,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 5 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+10,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 5 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+11,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Place Stone,0.0,False,0.0
+12,"You took action place_stone.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+13,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+14,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+15,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+16,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+17,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+18,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 3 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+19,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 2 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+20,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 3 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+21,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 2 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+22,"You took action make_iron_sword.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 3 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+23,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 2 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+24,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 2 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+25,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 2 steps to your east
+- zombie 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+26,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 2 steps to your south-east
+- zombie 3 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+27,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 1 steps to your east
+- zombie 2 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,-0.2,False,-0.2
+28,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 1 steps to your east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.2
+29,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 1 steps to your east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.2
+30,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 2 steps to your east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.2
+31,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 3 steps to your east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,-0.2
+32,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.2
+33,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,-0.2,False,-0.4
+34,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.4
+35,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your north-east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Do,0.0,False,-0.4
+36,"You took action do.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your north-east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.4
+37,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 3 steps to your east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.4
+38,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your north-east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.4
+39,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your north-east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Noop,-0.2,False,-0.6000000000000001
+40,"You took action noop.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your north-east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 3/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,-0.6000000000000001
+41,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 4 steps to your north-east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 3/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.6000000000000001
+42,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 5 steps to your north-east
+- zombie 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 3/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.6000000000000001
+43,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 6 steps to your north-east
+- zombie 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 3/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.6000000000000001
+44,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your north
+- sand 6 steps to your south-west
+- cow 6 steps to your north-east
+- zombie 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 3/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.6000000000000001
+45,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your north
+- sand 6 steps to your south-west
+- cow 5 steps to your north-east
+- zombie 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 3/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.6000000000000001
+46,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your north
+- sand 6 steps to your south-west
+- cow 6 steps to your north-east
+- zombie 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 3/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Move West,0.0,False,-0.6000000000000001
+47,"You took action move_west.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your west
+- sand 6 steps to your south-west
+- cow 6 steps to your north-east
+- zombie 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 3/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,-0.2,False,-0.8
+48,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your north
+- sand 6 steps to your south-west
+- cow 6 steps to your north-east
+- zombie 1 steps to your west
+
+You face zombie at your front.
+
+Your status:
+- health: 1/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,-0.8
+49,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your north
+- sand 6 steps to your south-west
+- cow 6 steps to your north-east
+- zombie 1 steps to your west
+
+You face zombie at your front.
+
+Your status:
+- health: 1/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,-0.8
+50,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your north
+- sand 6 steps to your south-west
+- cow 5 steps to your south-east
+- zombie 1 steps to your west
+
+You face zombie at your front.
+
+Your status:
+- health: 1/9
+- food: 8/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.1,False,-0.7000000000000001
+51,"You took action make_wood_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your north
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+- zombie 1 steps to your west
+
+You face zombie at your front.
+
+Your status:
+- health: 2/9
+- food: 7/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.7000000000000001
+52,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your north
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+- zombie 1 steps to your west
+
+You face zombie at your front.
+
+Your status:
+- health: 2/9
+- food: 7/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,-0.7000000000000001
+53,"You took action make_iron_pickaxe.
+
+You see:
+- water 7 steps to your south-west
+- grass 1 steps to your north
+- sand 6 steps to your south-west
+- cow 4 steps to your east
+- zombie 1 steps to your west
+
+You face zombie at your front.
+
+Your status:
+- health: 2/9
+- food: 7/9
+- drink: 7/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,-0.2,True,-0.9000000000000001

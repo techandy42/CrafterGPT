@@ -1,0 +1,622 @@
+step,observation,action,reward,done,total_reward
+0,"You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+1,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Do,0.0,False,0.0
+2,"You took action do.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+3,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+4,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Do,1.0,False,1.0
+5,"You took action do.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,1.0
+6,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Do,0.0,False,1.0
+7,"You took action do.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,1.0
+8,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,1.0
+9,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- arrow 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,1.0
+10,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- arrow 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,1.0
+11,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- cow 4 steps to your north-east
+- arrow 2 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,1.0
+12,"You took action make_stone_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- cow 4 steps to your north-east
+- arrow 1 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,-0.2,False,0.8
+13,"You took action make_stone_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.8
+14,"You took action make_stone_pickaxe.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.8
+15,"You took action make_stone_pickaxe.
+
+You see:
+- grass 1 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.8
+16,"You took action make_stone_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- skeleton 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.8
+17,"You took action make_stone_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- skeleton 4 steps to your east
+- arrow 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,0.8
+18,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- skeleton 4 steps to your east
+- arrow 2 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,0.8
+19,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- skeleton 4 steps to your east
+- arrow 1 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 7/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,-0.2,False,0.6000000000000001
+20,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- skeleton 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.6000000000000001
+21,"You took action make_stone_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- skeleton 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Move West,0.0,False,0.6000000000000001
+22,"You took action move_west.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- arrow 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.6000000000000001
+23,"You took action make_stone_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- arrow 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,0.6000000000000001
+24,"You took action make_wood_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- arrow 2 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 5/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.1,False,0.7000000000000001
+25,"You took action make_wood_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- arrow 1 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 6/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,-0.2,False,0.5
+26,"You took action make_stone_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- arrow 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 4/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,0.5
+27,"You took action make_wood_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- arrow 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 4/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,0.0,False,0.5
+28,"You took action make_wood_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- arrow 2 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 4/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.5
+29,"You took action make_stone_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- cow 3 steps to your north
+- skeleton 4 steps to your east
+- arrow 1 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 4/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,-0.2,False,0.3
+30,"You took action make_stone_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- cow 3 steps to your north
+- skeleton 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 2/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.3
+31,"You took action make_stone_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- cow 3 steps to your north
+- skeleton 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 2/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.3
+32,"You took action make_stone_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- cow 3 steps to your north
+- skeleton 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 2/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.3
+33,"You took action make_stone_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- cow 4 steps to your north-west
+- skeleton 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 2/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.3
+34,"You took action make_stone_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- cow 4 steps to your north-west
+- skeleton 4 steps to your east
+- arrow 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 2/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1",Make Stone Pickaxe,0.0,False,0.3
+35,"You took action make_stone_pickaxe.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- cow 4 steps to your north-west
+- skeleton 4 steps to your east
+- arrow 2 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 2/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1",Do,0.0,False,0.3
+36,"You took action do.
+
+You see:
+- water 6 steps to your south-west
+- grass 1 steps to your west
+- sand 5 steps to your south-west
+- cow 3 steps to your north
+- skeleton 4 steps to your east
+- arrow 1 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 2/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1",Make Wood Pickaxe,-0.2,True,0.09999999999999998

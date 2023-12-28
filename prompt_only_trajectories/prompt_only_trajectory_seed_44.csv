@@ -1,0 +1,3087 @@
+step,observation,action,reward,done,total_reward
+0,"You see:
+- grass 1 steps to your west
+- tree 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+1,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Do,0.0,False,0.0
+2,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+3,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+4,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 3 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+5,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 2 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+6,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+7,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+8,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+9,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+10,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 6 steps to your north-east
+- cow 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Move West,0.0,False,0.0
+11,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 7 steps to your north-east
+- cow 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+12,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 7 steps to your north-east
+- cow 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+13,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 7 steps to your north-east
+- cow 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Move West,0.0,False,0.0
+14,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- cow 2 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+15,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- cow 2 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+16,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- cow 3 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Move West,0.0,False,0.0
+17,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- cow 5 steps to your south-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+18,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- cow 5 steps to your south-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+19,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- cow 4 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 9/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+20,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- cow 4 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+21,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- cow 4 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Do,0.0,False,0.0
+22,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- cow 4 steps to your west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,0.0
+23,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- cow 5 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+24,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- cow 5 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 9/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+25,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+26,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- cow 3 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+27,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- cow 2 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+28,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- cow 2 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+29,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- cow 2 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Move West,0.0,False,0.0
+30,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Sleep,0.0,False,0.0
+31,"You took action sleep.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+32,"You took action make_iron_sword.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+33,"You took action make_iron_sword.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 2 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,0.0
+34,"You took action make_iron_pickaxe.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 2 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+35,"You took action make_iron_sword.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 2 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Do,0.0,False,0.0
+36,"You took action do.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Do,0.0,False,0.0
+37,"You took action do.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+38,"You took action make_iron_sword.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Move West,0.0,False,0.0
+39,"You took action move_west.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,0.0
+40,"You took action make_iron_sword.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 8/9
+
+You have nothing in your inventory.",Move West,0.0,False,0.0
+41,"You took action move_west.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 2 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,1.0,False,1.0
+42,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,1.0
+43,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 2 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Pickaxe,0.0,False,1.0
+44,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 4 steps to your west
+- cow 3 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Move West,0.0,False,1.0
+45,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 3 steps to your west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 8/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,1.0
+46,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 3 steps to your west
+- cow 3 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+You have nothing in your inventory.",Move West,0.0,False,1.0
+47,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your west
+- cow 4 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Wood Pickaxe,0.0,False,1.0
+48,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your west
+- cow 3 steps to your east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+You have nothing in your inventory.",Move West,0.0,False,1.0
+49,"You took action move_west.
+
+You see:
+- grass 1 steps to your north
+- tree 1 steps to your west
+- cow 3 steps to your east
+
+You face tree at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,1.0
+50,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your north
+- tree 1 steps to your west
+- cow 4 steps to your north-east
+
+You face tree at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,1.0
+51,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your north
+- tree 1 steps to your west
+- cow 5 steps to your north-east
+
+You face tree at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,1.0
+52,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your north
+- tree 1 steps to your west
+- cow 4 steps to your north-east
+
+You face tree at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,1.0
+53,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your north
+- tree 1 steps to your west
+- cow 5 steps to your north-east
+
+You face tree at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+You have nothing in your inventory.",Make Iron Sword,0.0,False,1.0
+54,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your north
+- tree 1 steps to your west
+- cow 5 steps to your south-east
+
+You face tree at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+You have nothing in your inventory.",Do,1.0,False,2.0
+55,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 3 steps to your north-west
+- cow 5 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 8/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Make Wood Sword,0.0,False,2.0
+56,"You took action make_wood_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 3 steps to your north-west
+- cow 6 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Move West,0.0,False,2.0
+57,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north
+- cow 6 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Make Iron Sword,0.0,False,2.0
+58,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Do,0.0,False,2.0
+59,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Make Iron Sword,0.0,False,2.0
+60,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Move West,0.0,False,2.0
+61,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Make Iron Sword,0.0,False,2.0
+62,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Make Iron Sword,0.0,False,2.0
+63,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Do,0.0,False,2.0
+64,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Make Iron Sword,0.0,False,2.0
+65,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 3 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Make Iron Sword,0.0,False,2.0
+66,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 7/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Do,0.0,False,2.0
+67,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Do,0.0,False,2.0
+68,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Make Iron Sword,0.0,False,2.0
+69,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Do,0.0,False,2.0
+70,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Do,0.0,False,2.0
+71,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 9/9
+
+Your inventory:
+- wood: 1",Do,1.0,False,3.0
+72,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+73,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,0.0,False,3.0
+74,"You took action do.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+75,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+76,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 6 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+77,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+78,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Sleep,0.0,False,3.0
+79,"You took action sleep.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,3.0
+80,"You took action make_wood_pickaxe.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,0.0,False,3.0
+81,"You took action do.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,0.0,False,3.0
+82,"You took action do.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+83,"You took action make_iron_pickaxe.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 4 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+84,"You took action move_west.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 7/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,0.0,False,3.0
+85,"You took action do.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,3.0
+86,"You took action make_wood_pickaxe.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 6 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,0.0,False,3.0
+87,"You took action do.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 5 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,3.0
+88,"You took action make_wood_pickaxe.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 6 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+89,"You took action make_iron_pickaxe.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 6 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+90,"You took action make_iron_pickaxe.You are sleeping, and will not be able take actions until energy is full.
+
+
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+- cow 6 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 6/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+91,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 6/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,3.0
+92,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 6/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Place Table,0.0,False,3.0
+93,"You took action place_table.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 6/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,3.0
+94,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+95,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+96,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+97,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your north-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+98,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+99,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 1 steps to your north
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+100,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your south-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+101,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your south-west
+- cow 7 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+102,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your south-west
+- cow 7 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+103,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your south-west
+- cow 7 steps to your north-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+104,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 1 steps to your south
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+105,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 1 steps to your south
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+106,"You took action make_iron_sword.
+
+You see:
+- grass 1 steps to your west
+- tree 1 steps to your south
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+107,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,3.0
+108,"You took action make_wood_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+109,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+110,"You took action make_iron_pickaxe.
+
+You see:
+- grass 1 steps to your west
+- tree 2 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+111,"You took action move_west.
+
+You see:
+- grass 1 steps to your west
+- sand 4 steps to your west
+- tree 3 steps to your south-east
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+112,"You took action move_west.
+
+You see:
+- water 4 steps to your west
+- grass 1 steps to your west
+- sand 3 steps to your west
+- tree 4 steps to your south-west
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 6/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+113,"You took action move_west.
+
+You see:
+- water 3 steps to your west
+- grass 1 steps to your west
+- sand 2 steps to your west
+- tree 3 steps to your south
+
+You face grass at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+114,"You took action move_west.
+
+You see:
+- water 2 steps to your west
+- grass 1 steps to your north
+- sand 1 steps to your west
+- tree 3 steps to your south
+
+You face sand at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+115,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+116,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.0
+117,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+118,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+119,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,3.0
+120,"You took action make_wood_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 9/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,3.0
+121,"You took action make_wood_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+122,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.0
+123,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+124,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,3.0
+125,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 4/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,1.0,False,4.0
+126,"You took action do.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+127,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+128,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,4.0
+129,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,4.0
+130,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+131,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,4.0
+132,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+133,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+134,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+135,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 5/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,0.0,False,4.0
+136,"You took action do.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,4.0
+137,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+138,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 5/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+139,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+140,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+141,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,4.0
+142,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+143,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Place Stone,0.0,False,4.0
+144,"You took action place_stone.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+145,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 6/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,0.0,False,4.0
+146,"You took action do.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+147,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+148,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+149,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+150,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+151,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 8/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+152,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+153,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+154,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+155,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+156,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+157,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,4.0
+158,"You took action make_wood_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+159,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+160,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+161,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,4.0
+162,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Wood Pickaxe,0.0,False,4.0
+163,"You took action make_wood_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 6 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+164,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 5 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 4/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,4.0
+165,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 4 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 3/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,4.0
+166,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 3 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 3/9
+- drink: 6/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Pickaxe,0.0,False,4.0
+167,"You took action make_iron_pickaxe.
+
+You see:
+- water 1 steps to your west
+- grass 1 steps to your east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 2 steps to your south-east
+
+You face water at your front.
+
+Your status:
+- health: 9/9
+- food: 3/9
+- drink: 6/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,-0.2,False,3.8
+168,"You took action do.
+
+You see:
+- water 1 steps to your west
+- grass 2 steps to your north-east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 1 steps to your east
+
+You face water at your front.
+
+Your status:
+- health: 7/9
+- food: 3/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.8
+169,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 2 steps to your north-east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 1 steps to your east
+
+You face water at your front.
+
+Your status:
+- health: 7/9
+- food: 3/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Move West,0.0,False,3.8
+170,"You took action move_west.
+
+You see:
+- water 1 steps to your west
+- grass 2 steps to your north-east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 1 steps to your east
+
+You face water at your front.
+
+Your status:
+- health: 7/9
+- food: 3/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.8
+171,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 2 steps to your north-east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 1 steps to your east
+
+You face water at your front.
+
+Your status:
+- health: 7/9
+- food: 3/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Make Iron Sword,0.0,False,3.8
+172,"You took action make_iron_sword.
+
+You see:
+- water 1 steps to your west
+- grass 2 steps to your north-east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 1 steps to your east
+
+You face water at your front.
+
+Your status:
+- health: 7/9
+- food: 3/9
+- drink: 7/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Do,0.0,False,3.8
+173,"You took action do.
+
+You see:
+- water 1 steps to your west
+- grass 2 steps to your north-east
+- sand 1 steps to your north
+- tree 4 steps to your south-east
+- zombie 1 steps to your east
+
+You face water at your front.
+
+Your status:
+- health: 7/9
+- food: 3/9
+- drink: 8/9
+- energy: 7/9
+
+Your inventory:
+- sapling: 1
+- wood: 1",Sleep,-0.7,True,3.0999999999999996
