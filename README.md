@@ -1,5 +1,7 @@
 # CrafterGPT
 
+![Crafter Terrain](./media/terrain.png)
+
 > Overview
 
 - CrafterGPT is an experiment that utilizes language models to play a procedurally-generated survival game, specifically [Crafter](https://github.com/danijar/crafter), a 2D version of Minecraft.
