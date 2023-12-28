@@ -38,9 +38,7 @@ Prompt-Engineering Only:
 | 0.1 |
 | 2.1 |
 | 1.1 |
-| Avg. Reward |
-| --- |
-| 0.9 |
+| **0.9** (avg) |
 
 > File Structure
 
