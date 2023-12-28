@@ -57,3 +57,12 @@ Fine-Tuned:
 
 > File Structure
 
+- `CrafterGPT_SFT_Data_Engineering.ipynb`: Colab notebook for generating textual training dataset from Crafter expert human dataset.
+- `CrafterGPT_SFT_Fine_Tuning.ipynb`: Colab notebook for fine-tuning Llama-7b model on training dataset.
+- `CrafterGPT_Step_By_Step_Prompt_Engineering.ipynb`: Colab notebook for running prompt-engineering only agent on Crafter environment.
+- `CrafterGPT_Step_By_Step_Prompt_Engineering_With_Fine_Tuned_Model.ipynb`: Colab notebook for running fine-tuned agent on Crafter environment.
+
+> HuggingFace Repositories
+
+- [techandy42/llama-2-7b-craftergpt-v1.1](https://huggingface.co/techandy42/llama-2-7b-craftergpt-v1.1): Fine-tuned Llama-7b model.
+-  [techandy42/CrafterGPT-Training-Dataset](https://huggingface.co/datasets/techandy42/CrafterGPT-Training-Dataset): Textual training dataset.
